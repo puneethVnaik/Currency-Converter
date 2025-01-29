@@ -61,7 +61,7 @@ This project was built to **enhance JavaScript skills** by working with **fetch 
 
 ## 🎮 Try It Out  
 
-Convert currencies instantly: **[Live Demo](#)**  
+Convert currencies instantly: **https://puneethvnaik.github.io/Currency-Converter/**  
 
 ---
 
@@ -69,5 +69,5 @@ Convert currencies instantly: **[Live Demo](#)**
 
 Let's connect and collaborate! 😊  
 
-**GitHub:** https://github.com/puneethVnaik/
+**GitHub:** https://github.com/puneethVnaik/<br>
 **LinkedIn:** https://www.linkedin.com/in/puneeth-v-naik/
