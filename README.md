@@ -69,5 +69,5 @@ Convert currencies instantly: **[Live Demo](#)**
 
 Let's connect and collaborate! 😊  
 
-**GitHub:** [Your GitHub Profile](#)  
-**LinkedIn:** [Your LinkedIn Profile](#)  
+**GitHub:** https://github.com/puneethVnaik/
+**LinkedIn:** https://www.linkedin.com/in/puneeth-v-naik/
