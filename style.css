@@ -9,6 +9,10 @@ body {
   align-items: center;
   min-height: 100vh;
   background-color: #f4e4ba;
+  background-image: url('currency5.jpg'); 
+  background-size: cover;  */
+  background-position: center; 
+  background-repeat: no-repeat;
 }
 
 .container {
